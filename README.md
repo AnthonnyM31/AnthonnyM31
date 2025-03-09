@@ -48,9 +48,9 @@
 ### ¡Mira mi juego interactivo!  
 
 
-[![Juego interactivo](Animation.gif)]
+[![Juego interactivo](Animation.gif)](https://anthonnym31.github.io/AnthonnyM31/)
 
-[Juega ahora 🚀](https://anthonnym31.github.io/AnthonnyM31/)
+
 
 
 ###
