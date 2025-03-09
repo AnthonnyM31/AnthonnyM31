@@ -46,7 +46,7 @@
 <br clear="both">
 
 ### ¡Mira mi juego interactivo!  
-[Juega ahora 🚀]([https://tu-usuario.github.io/nombre-del-repositorio](https://anthonnym31.github.io/AnthonnyM31/))
+[Juega ahora 🚀](https://anthonnym31.github.io/AnthonnyM31/)
 
 
 ###
