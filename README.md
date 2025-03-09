@@ -46,6 +46,10 @@
 <br clear="both">
 
 ### ¡Mira mi juego interactivo!  
+
+
+[![Juego interactivo](Animation.gif)]
+
 [Juega ahora 🚀](https://anthonnym31.github.io/AnthonnyM31/)
 
 
