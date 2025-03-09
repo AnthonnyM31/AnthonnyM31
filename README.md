@@ -45,6 +45,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+### ¡Mira mi juego interactivo!  
+[Juega ahora 🚀]([https://tu-usuario.github.io/nombre-del-repositorio](https://anthonnym31.github.io/AnthonnyM31/))
+
 
 ###
