@@ -1,12 +1,12 @@
 # ✨ Hola, soy [Anthonny Mosquera](https://github.com/AnthonnyM31) ✨
 
 <div>
-  <img align="right" width="400" alt="Shimarin" src="https://i.pinimg.com/736x/2f/02/2b/2f022bd3c7b674561eeef18f6856a310.jpg"/>
+  <img align="right" width="250" alt="Cat Profile" src="https://github.com/AnthonnyM31/AnthonnyM31/blob/main/cat.jpeg?raw=true"/>
 
   ### 💫 Contáctame:
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthonny-mosquera-0ab0bb338)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/a.eluuu)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anthonnym.r?igsh=ZmUxaDlqZzQxNXNj)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anthonny.mosquera31@gmail.com)
 
   ### 🌟 Sobre Mí
@@ -60,6 +60,14 @@ Implementé mecánicas como `TakeDamage`, `OnTriggerEnter`, y diseñé elementos
 
 ### 🔄 Automatización con n8n
 Exploré flujos de trabajo automatizados para optimizar procesos internos, integrando APIs y servicios externos.
+
+---
+
+## 🎮 Juego Interactivo
+
+Haz clic en el GIF para jugar una experiencia personalizada que diseñé con cariño y creatividad:
+
+[![Juego interactivo](https://github.com/AnthonnyM31/AnthonnyM31/blob/main/Animation.gif?raw=true)](https://anthonnym31.github.io/AnthonnyM31/)
 
 ---
 
