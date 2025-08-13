@@ -1,24 +1,24 @@
-# ✨ Hola, soy [Anthonny Mosquera](https://github.com/AnthonnyM31) ✨
+# ✨ Hi, I'm [Anthonny Mosquera](https://github.com/AnthonnyM31) ✨
 
 <div>
   <img align="right" width="250" alt="Cat Profile" src="https://github.com/AnthonnyM31/AnthonnyM31/blob/main/cat.jpeg?raw=true"/>
 
-  ### 💫 Contáctame:
+  ### 💫 Contact Me:
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthonny-mosquera-0ab0bb338)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anthonnym.r?igsh=ZmUxaDlqZzQxNXNj)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anthonny.mosquera31@gmail.com)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anthonnymr.31@gmail.com)
 
-  ### 🌟 Sobre Mí
-  - 🎮 Estudiante de **Ingeniería de Software** en sexto semestre
-  - 🧠 Apasionado por el **desarrollo web**, **automatización** y **backend**
-  - 🛠️ Explorando herramientas como **n8n**, **Tkinter**, **Supabase** y **Unity**
-  - 📈 En constante aprendizaje de **metodologías ágiles**, **UI/UX**, y **Power Platform**
+  ### 🌟 About Me
+  - 🎮 Software Engineering student (6th semester)
+  - 🧠 Passionate about **web development**, **backend**, and **automation**
+  - 🛠️ Exploring tools like **n8n**, **Tkinter**, **Supabase**, and **Unity**
+  - 📈 Constantly learning **agile methodologies**, **UI/UX**, and **Power Platform**
 </div>
 
 ---
 
-### 🛠️ Lenguajes y Herramientas
+### 🛠️ Languages & Tools
 
 #### ⚡ Backend
 <p align="left">
@@ -34,14 +34,14 @@
   </a>
 </p>
 
-#### 💾 Base de Datos
+#### 💾 Databases
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
   </a>
 </p>
 
-#### 🔧 Herramientas
+#### 🔧 Tools
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,vscode,figma,dotnet" />
@@ -50,24 +50,19 @@
 
 ---
 
-## 🔱 Proyectos Destacados
+## 🔱 Featured Projects
 
-### 🧩 Sweet & Coffee: App de Mantenimiento
-Diseñé una aplicación para el área de mantenimiento de Sweet & Coffee, enfocada en branding, funcionalidad y experiencia de usuario.
+### 🧩 Sweet & Coffee: Maintenance App  
+Designed a branded and functional app for the maintenance department, focusing on usability and clean UI.
 
-### 🧠 Unity Game: Sistema de Daño y UI
-Implementé mecánicas como `TakeDamage`, `OnTriggerEnter`, y diseñé elementos visuales como íconos de corazones para la interfaz del jugador.
+### 🧠 Unity Game: Damage System & UI  
+Implemented mechanics like `TakeDamage`, `OnTriggerEnter`, and designed heart-based health indicators for player feedback.
 
-### 🔄 Automatización con n8n
-Exploré flujos de trabajo automatizados para optimizar procesos internos, integrando APIs y servicios externos.
+### 🔄 Automation with n8n  
+Built automated workflows integrating APIs and external services to streamline internal processes.
 
 ---
-
-## 🎮 Juego Interactivo
-
-Haz clic en el GIF para jugar una experiencia personalizada que diseñé con cariño y creatividad:
-
-[![Juego interactivo](https://github.com/AnthonnyM31/AnthonnyM31/blob/main/Animation.gif?raw=true)](https://anthonnym31.github.io/AnthonnyM31/)
+[![Interactive Game](https://github.com/AnthonnyM31/AnthonnyM31/blob/main/Animation.gif?raw=true)](https://anthonnym31.github.io/AnthonnyM31/)
 
 ---
 
@@ -77,6 +72,10 @@ Haz clic en el GIF para jugar una experiencia personalizada que diseñé con car
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonnyM31&layout=compact&theme=dracula" alt="Top Languages" />
 </div>
 
+---
+
+## 👋 Bye for Now
+
 <p align="center">
-  <a href="https://emoji.gg/emoji/5349-hellokittybyebye"><img src="https://cdn3.emoji.gg/emojis/5349-hellokittybyebye.png" width="128px" height="128px" alt="HelloKittyByeBye"></a>
+  <img src="https://github.com/AnthonnyM31/AnthonnyM31/blob/main/bye.png?raw=true" width="180px" alt="Bye Bye Image" />
 </p>
