@@ -56,7 +56,7 @@
 Designed a branded and functional app for the maintenance department, focusing on usability and clean UI.
 
 ### 🧠 Unity Game: Damage System & UI  
-Implemented mechanics like `TakeDamage`, `OnTriggerEnter`, and designed heart-based health indicators for player feedback.
+Developed a two-player video game focused on minimalist mechanics and competitive interaction. Prioritized intuitive controls and clean UI to enhance player engagement and replayability.
 
 ### 🔄 Automation with n8n  
 Built automated workflows integrating APIs and external services to streamline internal processes.
